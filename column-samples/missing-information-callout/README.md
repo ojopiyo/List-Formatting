@@ -151,7 +151,7 @@ These properties allow the formatter to match your organisation's preferred visu
 
 |Version|Date|Comments|
 |-------|----|--------|
-|1.0|July 13, 2026|Initial release|
+|1.0|July 12, 2026|Initial release|
 
 [!INCLUDE [DISCLAIMER](../../docfx/includes/DISCLAIMER.md)]
 
