@@ -145,7 +145,7 @@ These properties allow the formatter to match your organisation's preferred visu
 
 |Solution|Author(s)|
 |--------|---------|
-|missing-information-callout.json|[Josiah Opiyo](https://github.com/ojopiyo)|
+|generic-missing-information-callout.json|[Josiah Opiyo](https://github.com/ojopiyo)|
 
 ## Version History
 
@@ -159,3 +159,5 @@ These properties allow the formatter to match your organisation's preferred visu
 
 - [SharePoint Column Formatting Documentation](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting)
 - [JSON Schema for SharePoint Column Formatting](https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json)
+
+<img src="https://pnptelemetry.azurewebsites.net/list-formatting/column-samples/generic-missing-information-callout" />
